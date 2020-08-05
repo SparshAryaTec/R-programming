@@ -1,2 +1,2 @@
 # R-programming
-Some Statistical Projects inplemented on R software
+Some Statistical Projects inplemented on R studio
